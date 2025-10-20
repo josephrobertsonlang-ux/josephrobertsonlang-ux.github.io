@@ -1,0 +1,18 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  text-align: center;
+  font-family: serif;
+  background: url('zebra.jpg') no-repeat center center fixed;
+  background-size: cover; 
+}
+
+h1 {
+  font-family: sans-serif;
+  font-size: 120px;
+  color: #ccc8cb;
+  cursor: pointer;
+  position: relative;
+  z-index: 1;
+}
